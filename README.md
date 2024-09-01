@@ -6,7 +6,3 @@
 - Large -> Assembler in C
 - Small -> Used MultiThreading to visual the known philosophers problem in Java
 
-<!---
-liam1408/liam1408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
