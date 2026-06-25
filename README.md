@@ -1,5 +1,5 @@
 # Welcome! I’m Liam
-- I’m currently a Computer Science student in the Open University of Israel
+- I’m currently a Computer Science Graduate From the Open University of Israel
 # GitHub?
 - In this GitHub you will find my currnet small/large projects I've done in University
 # Finished Projects
