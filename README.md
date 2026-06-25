@@ -5,6 +5,7 @@
 # Finished Projects
 ### Large:
 - Assembler in C
+- Compiler in Python 
 ### Small:
 - Used MultiThreading to visual the known philosophers problem in Java
 - Palindrome check in Assembly(MIPS)
